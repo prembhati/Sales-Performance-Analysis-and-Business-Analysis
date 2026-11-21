@@ -33,8 +33,3 @@ Using Python for data preprocessing and analysis, and Power BI for interactive v
 ## 🚀 Outcome
 This project demonstrates how data-driven insights can support business decision-making through efficient visualization and reporting.  
 It serves as a real-world example of leveraging data analytics for strategic planning.
-
-## 🧑‍💻 Author
-**Abhishek Girgire**  
-Role: Data & Business Analytics Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/abhishek-r-girgire-370761280/) | [GitHub](https://github.com/abhishek-RG)
